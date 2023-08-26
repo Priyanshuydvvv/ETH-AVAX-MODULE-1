@@ -15,7 +15,7 @@ To use or modify this smart contract, you need:
 
 ### Executing the Smart Contract
 
-1. Copy the contract code from [ErrorHandling.sol](ErrorHandlingfE.sol).
+1. Copy the contract code from [ErrorHandling.sol](ErrorHandling.sol).
 2. Compile the contract using the Solidity compiler.
 3. Deploy the compiled contract on an Ethereum development network of your choice.
 4. Interact with the contract using its functions.
